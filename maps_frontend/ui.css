@@ -1,0 +1,15 @@
+.ui_comp{
+    border-radius: 6px;
+    padding:9px;
+    background-color: rgb(0, 0, 0);
+    border:0px;
+    display: inline-block;
+}
+
+button{
+    font-weight: bold;
+}
+*{
+    font-size:15px;
+    font-family: 'Poppins', sans-serif;
+}

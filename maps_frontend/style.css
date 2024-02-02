@@ -1,0 +1,28 @@
+.lower_bar{
+    position: absolute;
+    bottom:20px;
+    right:100px;
+}
+.upper_bar{
+
+    width:100%;
+}
+.search_bar{
+    position: absolute;
+    left:calc(50% - 200px);
+    width:400px;
+    padding:9px;
+    padding-left:20px;
+    font-size:17px;
+    border-radius: 8px;
+    border:0px;
+    outline:none;
+    background-color: #f0efef;
+}
+.search_point{
+    display: block;
+    position: absolute;
+    right:calc(50% - 190px);
+    top:14px;
+    
+}
